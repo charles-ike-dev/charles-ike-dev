@@ -83,7 +83,7 @@ Before engineering, I ran operations: I led **150+ associates** in a large fulfi
 
 ## Featured repository
 
-- [**My-Personal-Site**](https://github.com/charles-ike/My-Personal-Site): my portfolio, built with Next.js 16, React 19, Tailwind CSS 4 and shadcn/ui. It includes light and dark themes, a views counter backed by Upstash Redis, and dynamic Open Graph images and SEO metadata
+- [**My-Personal-Site**](https://github.com/charles-ike-dev/my-portfolio): my portfolio, built with Next.js 16, React 19, Tailwind CSS 4 and shadcn/ui. It includes light and dark themes, a views counter backed by Upstash Redis, and dynamic Open Graph images and SEO metadata
 
 ---
 
