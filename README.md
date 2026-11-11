@@ -20,7 +20,7 @@ Before engineering, I ran operations: I led **150+ associates** in a large fulfi
 
 ### Currently
 
-- 🩺 **AI / LLM Developer (contract) at Curalith**, auditing and fixing a medical RAG agent: ingestion, chunking, retrieval and prompt safety
+- 🩺 **Just completed my work as AI / LLM Developer (contract) at Curalith**, auditing and fixing a medical RAG agent: ingestion, chunking, retrieval and prompt safety
 - 🤝 **Open to** full-time, contract and freelance roles, remote
 
 ---
